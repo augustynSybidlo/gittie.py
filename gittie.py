@@ -1,5 +1,6 @@
 def introduce():
-    print ("Hello, I'm Gittie!")
+    print ("Hello, I'm Gittie! Adding some extra stuff here because that is part of the assignment")
+    print ("Are you a git master yet?")
 
 def add(a, b):
     c = a + b
